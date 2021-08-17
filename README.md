@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/AlexeyYan/AlexeyYan/main/wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/AlexeyYan/AlexeyYan/main/wave.gif" width="30px">
 <div>
   <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexeyYan&theme=tokyonight&count_private=true&include_all_commits=true" heigh=>
