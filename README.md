@@ -1,10 +1,4 @@
 # Hi there <img src="https://raw.githubusercontent.com/AlexeyYan/AlexeyYan/main/wave.gif" width="30px">
-<div>
-  <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexeyYan&theme=tokyonight&count_private=true&include_all_commits=true" heigh=>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyYan&theme=tokyonight">
-  </div>
-</div>
 
 <!--
 **AlexeyYan/AlexeyYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
